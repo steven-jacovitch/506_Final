@@ -1,0 +1,154 @@
+[
+  {
+      "url": "https://starwars.fandom.com/wiki/Mace_Windu",
+      "name": "Mace Windu",
+      "birth_date": {
+        "year": 72,
+        "era": "BBY"
+      },
+      "height_cm": 192.0,
+      "mass_kg": 84.0,
+      "homeworld": {
+        "url": "https://starwars.fandom.com/wiki/Haruun_Kal",
+        "name": "Haruun Kal",
+        "region": "Mid Rim",
+        "sector": "Dustig sector",
+        "suns": 1,
+        "moons": null,
+        "orbital_period_days": 383.0,
+        "diameter_km": 10120,
+        "gravity_std": 0.98,
+        "climate": [
+          "Temperate"
+        ],
+        "terrain": [
+          "Toxic cloudsea",
+          "Plateaus",
+          "Volcanoes",
+          "Jungles"
+        ],
+        "population": 705300
+      },
+      "species": {
+        "url": "https://swapi.py4e.com/api/species/1/",
+        "name": "Human",
+        "classification": "mammal",
+        "designation": "sentient",
+        "average_lifespan_yrs": 120,
+        "average_height_cm": 180.0,
+        "language": "Galactic Basic"
+      },
+      "force_sensitive": true
+    },
+    {
+      "url": "https://starwars.fandom.com/wiki/Plo_Koon/Legends",
+      "name": "Plo Koon",
+      "birth_date": null,
+      "height_cm": 188.0,
+      "mass_kg": 80.0,
+      "homeworld": {
+        "url": "https://starwars.fandom.com/wiki/Dorin/Legends",
+        "name": "Dorin",
+        "region": "Expansion Region",
+        "sector": "Deadalis sector",
+        "suns": 1,
+        "moons": 1,
+        "orbital_period_days": 409.0,
+        "diameter_km": 13400,
+        "gravity_std": 1.0,
+        "climate": [
+          "Temperate"
+        ],
+        "terrain": [
+          "Mountains",
+          "Valleys",
+          "Plateaus"
+        ],
+        "population": 671000000
+      },
+      "species": {
+        "url": "https://swapi.py4e.com/api/species/26/",
+        "name": "Kel Dor",
+        "classification": null,
+        "designation": "sentient",
+        "average_lifespan_yrs": 70,
+        "average_height_cm": 180.0,
+        "language": "Kel Dor"
+      },
+      "force_sensitive": true
+    },
+    {
+      "url": "https://starwars.fandom.com/wiki/Shaak_Ti",
+      "name": "Shaak Ti",
+      "birth_date": null,
+      "height_cm": 187.0,
+      "mass_kg": 57.0,
+      "homeworld": {
+        "url": "https://starwars.fandom.com/wiki/Shili",
+        "name": "Shili",
+        "region": "Expansion Region",
+        "sector": "Shili system",
+        "suns": 1,
+        "moons": 6,
+        "orbital_period_days": null,
+        "diameter_km": null,
+        "gravity_std": 1.0,
+        "climate": [
+          "Temperate"
+        ],
+        "terrain": [
+          "Cities",
+          "Savannahs",
+          "Seas",
+          "Plains",
+          "Rainforest valleys",
+          "Mountains"
+        ],
+        "population": null
+      },
+      "species": {
+        "url": "https://swapi.py4e.com/api/species/35/",
+        "name": "Togruta",
+        "classification": "mammal",
+        "designation": "sentient",
+        "average_lifespan_yrs": 94,
+        "average_height_cm": 180.0,
+        "language": "Togruti"
+      },
+      "force_sensitive": true
+    },
+    {
+      "url": "https://starwars.fandom.com/wiki/Yoda",
+      "name": "Yoda",
+      "birth_date": {
+        "year": 896,
+        "era": "BBY"
+      },
+      "height_cm": 66.0,
+      "mass_kg": 17.0,
+      "homeworld": {
+        "url": "https://swapi.py4e.com/api/planets/28/",
+        "name": null,
+        "region": null,
+        "sector": null,
+        "suns": null,
+        "moons": null,
+        "orbital_period_days": 0.0,
+        "diameter_km": 0,
+        "gravity_std": null,
+        "climate": null,
+        "terrain": null,
+        "population": null
+      },
+      "species": {
+        "url": "https://swapi.py4e.com/api/species/6/",
+        "name": "Yoda's species",
+        "classification": "mammal",
+        "designation": "sentient",
+        "average_lifespan_yrs": 900,
+        "average_height_cm": 66.0,
+        "language": "Galactic basic"
+      },
+      "force_sensitive": true
+    }
+]
